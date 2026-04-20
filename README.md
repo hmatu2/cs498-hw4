@@ -1,5 +1,1 @@
-# HW4 README
-
-## Part 2.1 Screenshot
-
-The screenshot below shows the `processed_data/` folder contents after running `preprocess.py`, including the `_SUCCESS` file and one sample `part-...json` output file.
+<img width="512" height="199" alt="hw4screenshot" src="https://github.com/user-attachments/assets/316cd2d7-72d7-4178-9267-fdef09a7a7cf" />
