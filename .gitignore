@@ -1,0 +1,5 @@
+taxi_trips.csv
+taxi_trips_clean.csv
+processed_data/
+__pycache__/
+*.pyc
